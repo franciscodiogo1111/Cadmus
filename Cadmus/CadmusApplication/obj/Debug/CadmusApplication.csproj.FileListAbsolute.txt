@@ -1,0 +1,9 @@
+C:\Workspace\Cadmus\CadmusApplication\bin\Debug\CadmusApplication.dll
+C:\Workspace\Cadmus\CadmusApplication\bin\Debug\CadmusApplication.pdb
+C:\Workspace\Cadmus\CadmusApplication\bin\Debug\CadmusDomain.dll
+C:\Workspace\Cadmus\CadmusApplication\bin\Debug\CadmusDomain.pdb
+C:\Workspace\Cadmus\CadmusApplication\obj\Debug\CadmusApplication.csprojAssemblyReference.cache
+C:\Workspace\Cadmus\CadmusApplication\obj\Debug\CadmusApplication.csproj.CoreCompileInputs.cache
+C:\Workspace\Cadmus\CadmusApplication\obj\Debug\CadmusApplication.csproj.CopyComplete
+C:\Workspace\Cadmus\CadmusApplication\obj\Debug\CadmusApplication.dll
+C:\Workspace\Cadmus\CadmusApplication\obj\Debug\CadmusApplication.pdb

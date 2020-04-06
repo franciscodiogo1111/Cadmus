@@ -1,0 +1,14 @@
+C:\Workspace\Cadmus\CadmusData\bin\Debug\CadmusData.dll.config
+C:\Workspace\Cadmus\CadmusData\bin\Debug\CadmusData.dll
+C:\Workspace\Cadmus\CadmusData\bin\Debug\CadmusData.pdb
+C:\Workspace\Cadmus\CadmusData\bin\Debug\CadmusDomain.dll
+C:\Workspace\Cadmus\CadmusData\bin\Debug\EntityFramework.dll
+C:\Workspace\Cadmus\CadmusData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Workspace\Cadmus\CadmusData\bin\Debug\CadmusDomain.pdb
+C:\Workspace\Cadmus\CadmusData\bin\Debug\EntityFramework.xml
+C:\Workspace\Cadmus\CadmusData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Workspace\Cadmus\CadmusData\obj\Debug\CadmusData.csprojAssemblyReference.cache
+C:\Workspace\Cadmus\CadmusData\obj\Debug\CadmusData.csproj.CoreCompileInputs.cache
+C:\Workspace\Cadmus\CadmusData\obj\Debug\CadmusData.csproj.CopyComplete
+C:\Workspace\Cadmus\CadmusData\obj\Debug\CadmusData.dll
+C:\Workspace\Cadmus\CadmusData\obj\Debug\CadmusData.pdb

@@ -1,0 +1,5 @@
+C:\Workspace\Cadmus\CadmusDomain\bin\Debug\CadmusDomain.dll
+C:\Workspace\Cadmus\CadmusDomain\bin\Debug\CadmusDomain.pdb
+C:\Workspace\Cadmus\CadmusDomain\obj\Debug\CadmusDomain.csproj.CoreCompileInputs.cache
+C:\Workspace\Cadmus\CadmusDomain\obj\Debug\CadmusDomain.dll
+C:\Workspace\Cadmus\CadmusDomain\obj\Debug\CadmusDomain.pdb
